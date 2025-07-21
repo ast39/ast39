@@ -1,4 +1,12 @@
-<h1 align="center">Привет, я Александр 👋</h1>
+<!-- Баннеры (можешь заменить ссылки на свои изображения) -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" width="32%" />
+  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" width="32%" />
+  <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80" width="32%" />
+</p>
+
+<h1 align="center">Welcome! I'm Alexander 👋</h1>
+
 <p align="center">
   <b>IT-специалист, Senior Backend Developer, Team Lead, Tech Lead, CTO</b><br>
   <i>15 лет опыта, более 100 проектов</i>
@@ -6,7 +14,23 @@
 
 ---
 
-### 🛠️ Мой стек
+<p align="center">
+  <b>Эксперт в PHP, Laravel, NodeJS, NestJS, Python, Flask, MySQL, PostgreSQL, SQLite, Redis, Clickhouse, ElasticSearch, RabbitMQ, Kafka, Docker, Kubernetes</b>
+</p>
+
+---
+
+## 📬 Contact with me
+
+<p align="center">
+  <a href="https://t.me/ASt39" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ My stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -29,19 +53,13 @@
 
 ---
 
-### 🚀 О себе
+## 🚀 О себе
 
 - 🧑‍💻 15 лет в IT, опыт в роли Senior Backend Developer, Team Lead, Tech Lead, CTO  
 - 🏆 Участие в более чем 100 проектах: от стартапов до крупных enterprise-систем  
 - 💡 Эксперт в проектировании архитектуры, оптимизации, масштабировании и DevOps  
 - 📈 Люблю автоматизацию, микросервисы, высоконагруженные системы и современные подходы к разработке  
 - 🤝 Открыт к интересным предложениям и коллаборациям
-
----
-
-### 📫 Связаться со мной
-
-- Telegram: [ASt39](https://t.me/ASt39)
 
 ---
 
