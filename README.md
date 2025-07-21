@@ -1,21 +1,21 @@
-<!-- Баннеры (можешь заменить ссылки на свои изображения) -->
+<!-- IT-themed banners (4:3 format, horizontal) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" width="32%" />
-  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" width="32%" />
-  <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80" width="32%" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" width="32%" />
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80" width="32%" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80" width="32%" />
 </p>
 
 <h1 align="center">Welcome! I'm Alexander 👋</h1>
 
 <p align="center">
-  <b>IT-специалист, Senior Backend Developer, Team Lead, Tech Lead, CTO</b><br>
-  <i>15 лет опыта, более 100 проектов</i>
+  <b>IT Specialist, Senior Backend Developer, Team Lead, Tech Lead, CTO</b><br>
+  <i>15 years of experience, 100+ projects delivered</i>
 </p>
 
 ---
 
 <p align="center">
-  <b>Эксперт в PHP, Laravel, NodeJS, NestJS, Python, Flask, MySQL, PostgreSQL, SQLite, Redis, Clickhouse, ElasticSearch, RabbitMQ, Kafka, Docker, Kubernetes</b>
+  <b>Expert in PHP, Laravel, NodeJS, NestJS, Python, Flask, MySQL, PostgreSQL, SQLite, Redis, Clickhouse, ElasticSearch, RabbitMQ, Kafka, Docker, Kubernetes</b>
 </p>
 
 ---
@@ -53,13 +53,13 @@
 
 ---
 
-## 🚀 О себе
+## 🚀 About me
 
-- 🧑‍💻 15 лет в IT, опыт в роли Senior Backend Developer, Team Lead, Tech Lead, CTO  
-- 🏆 Участие в более чем 100 проектах: от стартапов до крупных enterprise-систем  
-- 💡 Эксперт в проектировании архитектуры, оптимизации, масштабировании и DevOps  
-- 📈 Люблю автоматизацию, микросервисы, высоконагруженные системы и современные подходы к разработке  
-- 🤝 Открыт к интересным предложениям и коллаборациям
+- 🧑‍💻 15 years in IT, experience as Senior Backend Developer, Team Lead, Tech Lead, CTO  
+- 🏆 Participated in 100+ projects: from startups to large enterprise systems  
+- 💡 Expert in architecture design, optimization, scaling, and DevOps  
+- 📈 Passionate about automation, microservices, high-load systems, and modern development approaches  
+- 🤝 Open to interesting opportunities and collaborations
 
 ---
 
