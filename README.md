@@ -9,13 +9,14 @@
 
 <p align="center">
   <b>IT Specialist, Senior Backend Developer, Team Lead, Tech Lead, CTO</b><br>
-  <i>15 years of experience, 100+ projects delivered</i>
+  <i>AI Integration • Process Automation • AI Agent Systems • 17 years in IT • 100+ projects delivered</i>
 </p>
 
 ---
 
 <p align="center">
-  <b>Expert in PHP, Laravel, NodeJS, NestJS, Python, Flask, MySQL, PostgreSQL, SQLite, Redis, Clickhouse, ElasticSearch, RabbitMQ, Kafka, Docker, Kubernetes</b>
+  <b>Expert in PHP, Laravel, NodeJS, NestJS, Python, Flask, MySQL, PostgreSQL, SQLite, Redis, Clickhouse, ElasticSearch, RabbitMQ, Kafka, Docker, Kubernetes</b><br>
+  <b>Specializing in AI integrations, workflow automation, and building autonomous AI agent systems</b>
 </p>
 
 ---
@@ -49,16 +50,19 @@
   <img src="https://img.shields.io/badge/Kafka-231f20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI/ML-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-4ECDC4?style=for-the-badge&logo=robot&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 About me
 
-- 🧑‍💻 15 years in IT, experience as Senior Backend Developer, Team Lead, Tech Lead, CTO  
-- 🏆 Participated in 100+ projects: from startups to large enterprise systems  
-- 💡 Expert in architecture design, optimization, scaling, and DevOps  
-- 📈 Passionate about automation, microservices, high-load systems, and modern development approaches  
+- 🧑‍💻 17 years in IT: Senior Backend Developer, Team Lead, Tech Lead, CTO  
+- 🤖 Focused on **AI integrations**, **process automation**, and **autonomous AI agent systems**  
+- 🏆 100+ projects delivered: from startups to enterprise-grade solutions  
+- 💡 Expert in architecture design, scaling, DevOps, and embedding AI into production workflows  
+- 🔄 Passionate about building intelligent automation that reduces manual work and increases efficiency  
 - 🤝 Open to interesting opportunities and collaborations
 
 ---
